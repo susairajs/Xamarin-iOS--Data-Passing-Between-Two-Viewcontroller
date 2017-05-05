@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinIosDataPass", "XamarinIosDataPass\XamarinIosDataPass.csproj", "{B189FBB9-39A8-4395-AAA5-CF2049D80DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B189FBB9-39A8-4395-AAA5-CF2049D80DBC}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B189FBB9-39A8-4395-AAA5-CF2049D80DBC}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B189FBB9-39A8-4395-AAA5-CF2049D80DBC}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B189FBB9-39A8-4395-AAA5-CF2049D80DBC}.Release|iPhone.Build.0 = Release|iPhone
+		{B189FBB9-39A8-4395-AAA5-CF2049D80DBC}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B189FBB9-39A8-4395-AAA5-CF2049D80DBC}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{B189FBB9-39A8-4395-AAA5-CF2049D80DBC}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B189FBB9-39A8-4395-AAA5-CF2049D80DBC}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
